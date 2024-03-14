@@ -7,6 +7,7 @@ Chaque département a une note par critère.La note globale est l'addition, et s
 Le Top 10 va s'adapter en fonction des réponses et nous donner la note finale. 
 
 LIEN vers l'app : https://prelloproject-lille-1519.streamlit.app
+-
 --------------------------------------------------------------------------------------------------------------------------
 
 Web application (streamlit) forming part of an analytical presentation of a Prello company dataset. 
@@ -17,4 +18,5 @@ Each department is given a score for each criterion, and the overall score is th
 
 The Top 10 will adapt according to the answers and give us the final score. 
 
-LIEN vers l'app : https://prelloproject-lille-1519.streamlit.app
+LINK to the app : https://prelloproject-lille-1519.streamlit.app
+-
