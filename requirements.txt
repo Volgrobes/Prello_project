@@ -3,4 +3,4 @@ numpy==1.26.4
 pandas==2.2.1
 geopandas==0.14.3
 db_dtypes==1.2.0
-plotly_express==5.20.0
+plotly-express==0.4.1
